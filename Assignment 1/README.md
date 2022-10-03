@@ -1,1 +1,1 @@
-this program imports a number of Helices into maya based on a number from the user
+This program takes an argument and adds a mesh to Maya based on the input it recieves.
